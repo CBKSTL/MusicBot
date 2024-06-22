@@ -1,0 +1,7 @@
+discord.py
+asyncio
+youtube-search-python
+pytube
+pillow
+requests
+pynacl
